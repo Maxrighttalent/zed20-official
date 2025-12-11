@@ -1,41 +1,129 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>ZED20 Token</title>
-  <meta name="description" content="ZED20 is a BEP-20 compliant digital asset designed for stability and interoperability on Binance Smart Chain." />
+  <meta name="description" content="ZED20 Token is a BEP-20 compliant digital asset on Binance Smart Chain, designed for DeFi interoperability and cross-chain utility." />
   <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6; max-width: 800px; margin: 2rem auto; padding: 0 1rem; color: #333; }
-    header { text-align: center; margin-bottom: 2rem; }
-    .contract { background: #f8f9fa; padding: 1rem; border-radius: 8px; font-family: monospace; word-break: break-all; }
-    footer { margin-top: 2rem; text-align: center; color: #666; font-size: 0.9rem; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      color: #111;
+      background-color: #fff;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .logo {
+      width: 64px;
+      height: 64px;
+      margin-bottom: 1rem;
+    }
+    .contract {
+      background: #f8f9fa;
+      padding: 1rem;
+      border-radius: 8px;
+      font-family: monospace;
+      word-break: break-all;
+      margin: 1.5rem 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+    }
+    th, td {
+      padding: 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid #eee;
+    }
+    th {
+      background-color: #fafafa;
+    }
+    footer {
+      margin-top: 2rem;
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+    }
+    .disclaimer {
+      font-size: 0.85rem;
+      color: #888;
+      margin-top: 2rem;
+      padding: 1rem;
+      background: #fdfdfd;
+      border-left: 3px solid #f0b90b;
+    }
+    a {
+      color: #d79b00;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>ZED20 Token</h1>
-    <p>A BEP-20 compliant digital asset on Binance Smart Chain</p>
+    <p>A BEP-20 digital asset on Binance Smart Chain</p>
   </header>
 
   <main>
-    <p>ZED20 is designed to provide reliable value transfer within the DeFi ecosystem. Built with transparency, security, and cross-chain interoperability in mind.</p>
+    <p>ZED20 Token is a BEP-20 compliant digital asset designed to enable seamless value transfer within the Binance Smart Chain ecosystem. Built with transparency, security, and DeFi integration in mind.</p>
 
-    <h2>Contract Address</h2>
-    <div class="contract">0x12c860695289e06b390e008ed0871172a24f5008</div>
+    <div class="contract">
+      <strong>Contract Address:</strong><br>
+      <a href="https://bscscan.com/token/0x12c860695289e06b390e008ed0871172a24f5008" target="_blank" rel="noopener">
+        0x12c860695289e06b390e008ed0871172a24f5008
+      </a>
+    </div>
+
+    <h2>Token Details</h2>
+    <table>
+      <tr><td><strong>Name</strong></td><td>ZED20 Token</td></tr>
+      <tr><td><strong>Symbol</strong></td><td>USDTz</td></tr>
+      <tr><td><strong>Decimals</strong></td><td>8</td></tr>
+      <tr><td><strong>Total Supply</strong></td><td>200,000,000 USDTz</td></tr>
+      <tr><td><strong>Blockchain</strong></td><td>Binance Smart Chain (BSC)</td></tr>
+      <tr><td><strong>Standard</strong></td><td>BEP-20</td></tr>
+      <tr><td><strong>Verified</strong></td><td>✅ Yes</td></tr>
+    </table>
 
     <h2>Resources</h2>
     <ul>
-      <li><a href="https://bscscan.com/token/0x12c860695289e06b390e008ed0871172a24f5008" target="_blank" rel="noopener">View on BscScan</a></li>
+      <li><a href="docs/whitepaper.pdf">Whitepaper (PDF)</a></li>
+      <li><a href="docs/technical-spec.md">Technical Specification</a></li>
+      <li><a href="docs/tokenomics.md">Tokenomics</a></li>
+      <li><a href="docs/security-review.md">Security Review</a></li>
+      <li><a href="docs/roadmap.md">Roadmap</a></li>
+      <li><a href="https://github.com/Maxrighttalent/zed20-token" target="_blank" rel="noopener">GitHub Repository</a></li>
       <li><a href="https://t.me/zed20_official" target="_blank" rel="noopener">Telegram Community</a></li>
-      <li><a href="/whitepaper.pdf">Whitepaper (PDF)</a></li>
+      <li><a href="https://x.com/usdtzofficial" target="_blank" rel="noopener">Twitter/X</a></li>
     </ul>
+
+    <h2>How to Add to Your Wallet</h2>
+    <ol>
+      <li>Open MetaMask, Trust Wallet, or any BSC-compatible wallet</li>
+      <li>Go to “Add Token” → “Custom Token”</li>
+      <li>Enter the contract address above</li>
+      <li>Confirm token details and add</li>
+    </ol>
+
+    <div class="disclaimer">
+      <strong>Disclaimer:</strong> ZED20 Token is an independent project with no affiliation to Tether Limited, USDT, or any stablecoin issuer. The use of the symbol "USDTz" is for internal identification only and does not imply endorsement or association. This token is not a stablecoin and is not pegged to any fiat currency.
+    </div>
   </main>
 
   <footer>
     &copy; 2025 ZED20 Token. All rights reserved.<br>
-    Contact: <a href="mailto:contact@usdtzcontroller.io">contact@usdtzcontroller.io</a>
+    Contact: <a href="mailto:contact@usdtzcontroller.io">contact@usdtzcontroller.io</a><br>
+    Domain: <a href="https://usdtzcontroller.io">usdtzcontroller.io</a>
   </footer>
 </body>
 </html>
