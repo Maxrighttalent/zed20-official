@@ -32,7 +32,7 @@ Official repository for **ZED20 Token** — a BEP-20 utility token on Binance Sm
 | Property        | Value                            |
 |-----------------|-------------------------------   |
 | Name            | ZED20 Token                      |
-| Symbol          | **ZED20** *(updated from USDTz)* |
+| Symbol          | **ZED20**                        |
 | Blockchain      | Binance Smart Chain (BSC)        |
 | Standard        | BEP-20                           |
 | Decimals        | 8                                |
