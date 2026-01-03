@@ -29,15 +29,15 @@ Official repository for **ZED20 Token** — a BEP-20 utility token on Binance Sm
 
 ## 🧾 Token Details
 
-| Property        | Value                     |
-|-----------------|---------------------------|
-| Name            | ZED20 Token               |
+| Property        | Value                            |
+|-----------------|-------------------------------   |
+| Name            | ZED20 Token                      |
 | Symbol          | **ZED20** *(updated from USDTz)* |
-| Blockchain      | Binance Smart Chain (BSC) |
-| Standard        | BEP-20                    |
-| Decimals        | 8                         |
-| Total Supply    | 200,000,000               |
-| Contract Verified | ✅ Yes (MIT License)    |
+| Blockchain      | Binance Smart Chain (BSC)        |
+| Standard        | BEP-20                           |
+| Decimals        | 8                                |
+| Total Supply    | 200,000,000                      |
+| Contract Verified | ✅ Yes (MIT License)          |
 
 > 💡 **Note**: The symbol has been updated from "USDTz" to **"ZED20"** to ensure compliance and avoid brand confusion.
 
