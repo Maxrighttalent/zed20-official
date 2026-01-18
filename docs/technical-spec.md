@@ -8,7 +8,7 @@ ZED20 is a minimal, secure, and auditable BEP-20 token contract deployed on Bina
 
 | Property              | Value                                                                                                                |
 |-----------------------|-------------------------------------------|
-| **Contract Address**  | [`0x12c860695289e06b390e008ed0871172a24f5008`](https://bscscan.com/token/0x12c860695289e06b390e008ed0871172a24f5008) |
+| **Contract Address**  | [`0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b`](https://bscscan.com/token/0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b) |
 | **Name**              | ZED20 Token                                                                                                          |
 | **Symbol**            | ZED20                                                                                                                |
 | **Decimals**          | 8                                                                                                                    |
@@ -50,7 +50,7 @@ The contract implements the standard BEP-20 interface:
 
 ## 🧪 Verification
 
-- **Verified on BscScan**: [View Contract](https://bscscan.com/token/0x12c860695289e06b390e008ed0871172a24f5008)
+- **Verified on BscScan**: [View Contract](https://bscscan.com/token/0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b)
 - **Source Code**: [Public on GitHub](https://github.com/Maxrighttalent/zed20-official)
 
 ---
@@ -60,7 +60,7 @@ The contract implements the standard BEP-20 interface:
 1. Open MetaMask, Trust Wallet, or any BSC-compatible wallet.
 2. Go to “Add Token” → “Custom Token”
 3. Enter:
-   - **Token Contract Address**: `0x12c860695289e06b390e008ed0871172a24f5008`
+   - **Token Contract Address**: `0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b`
    - **Token Symbol**: `ZED20`
    - **Decimals**: `8`
 4. Click “Add Token”
