@@ -10,7 +10,7 @@ ZED20 Token is a BEP-20 utility token on Binance Smart Chain with a fixed, trans
 - **Standard**: BEP-20  
 - **Decimals**: 8  
 - **Total Supply**: 200,000,000 ZED20  
-- **Contract Address**: [`0x12c860695289e06b390e008ed0871172a24f5008`](https://bscscan.com/token/0x12c860695289e06b390e008ed0871172a24f5008)
+- **Contract Address**: [`0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b`](https://bscscan.com/token/0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b)
 
 ## Supply Distribution
 
