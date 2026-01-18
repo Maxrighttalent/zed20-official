@@ -9,7 +9,7 @@ Official repository for **ZED20 Token** — a BEP-20 utility token on Binance Sm
 ## 🔗 Official Links
 
 - **Website**: [https://usdtzcontroller.io](https://usdtzcontroller.io)
-- **Contract (BSC)**: [`0x12c860695289e06b390e008ed0871172a24f5008`](https://bscscan.com/token/0x12c860695289e06b390e008ed0871172a24f5008)
+- **Contract (BSC)**: [`0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b`](https://bscscan.com/token/0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b)
 - **Email**: [contact@usdtzcontroller.io](mailto:contact@usdtzcontroller.io)
 - **Telegram**: [@zed20_official](https://t.me/zed20_official)
 - **Twitter**: [@usdtzofficial](https://twitter.com/usdtzofficial)
