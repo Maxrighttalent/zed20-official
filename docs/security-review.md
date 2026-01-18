@@ -16,7 +16,7 @@ ZED20 Token prioritizes security, transparency, and minimalism. The smart contra
 - **Compiler**: Solidity v0.6.12+commit.27d51765  
 - **Optimization**: Enabled (200 runs)  
 - **License**: MIT  
-- **Verified on BscScan**: [0x12c8...5008](https://bscscan.com/token/0x12c860695289e06b390e008ed0871172a24f5008)  
+- **Verified on BscScan**: [0x12c8...5008](https://bscscan.com/token/0xC8fd86B786c48DD840Ae3d89A21649EC51fA2F5b)  
 - **Source Code**: [Public on GitHub](https://github.com/Maxrighttalent/zed20-official)
 
 ## Audit Status
