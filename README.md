@@ -18,10 +18,12 @@ Official repository for **ZED20 Token** — a BEP-20 utility token on Binance Sm
 
 ## 📄 Documentation
 
-- [Whitepaper & Technical Overview]((https://maxrighttalent.github.io/zed20-official/docs/WhitePaper.pdf))
+- [Whitepaper](https://maxrighttalent.github.io/zed20-official/docs/WhitePaper.pdf)
+- [Technical Overview](https://maxrighttalent.github.io/zed20-official/docs/technical-spec.md)
 - [Tokenomics](https://maxrighttalent.github.io/zed20-official/docs/tokenomics.md)
 - [Security Review](https://maxrighttalent.github.io/zed20-official/docs/security-review.md)
-- [Team Information](https://maxrighttalent.github.io/zed20-official/team.html)
+- [Roadmap](https://maxrighttalent.github.io/zed20-official/docs/roadmap.md)
+- [Team Information](https://www.linkedin.com/in/max-right-868b74370/)
 
 > ✅ All documentation is publicly accessible — no login required.
 
